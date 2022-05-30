@@ -6,7 +6,7 @@ int main()
    {
        scanf("%d", &a);
             if(a==0){
-             pritnf(" friend's name is fool");
+             printf(" friend's name is fool");
             }else{
              printf(" I am fool");
             }
