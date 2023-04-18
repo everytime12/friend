@@ -1,5 +1,5 @@
 #include <stdio.h>
-#progma warning (disable:4996)
+#progma warning (disable:4996) 
 int main()
 {
  int a; 
