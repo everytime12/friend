@@ -1,4 +1,5 @@
 #include <stdio.h>
+#progma warning (disable:4996)
 int main()
 {
  int a; 
@@ -13,4 +14,3 @@ int main()
     }
 return 0;
 }
-// dev c++ can only compile this pile
